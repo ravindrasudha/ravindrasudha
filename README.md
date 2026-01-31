@@ -77,25 +77,43 @@
 
 ---
 
-### 🔥 Featured Projects (Hands-on from 3+ Yrs Experience)
+### 🔥 Featured Projects
+(Hands-on work from +3 years in data analysis, statistics, visualization & BI)
 
-Here are standout projects blending data analysis, ML, GenAI, and BI:
+Here are some key public projects showcasing exploratory data analysis (EDA), statistical inference, hypothesis testing, probability distributions, and interactive dashboards:
 
-- **🔍 Customer Churn & CLV Prediction**  
-  Refined pipeline: EDA → XGBoost/LightGBM → SHAP → Streamlit dashboard  
-  [Repo](https://github.com/ravindrasudha/customer-churn-prediction) • [Demo](https://customer-churn-app.streamlit.app)
+- **📱 Flipkart Mobile Sales Dashboard**  
+  Comprehensive Power BI / visualization project analyzing mobile phone sales on Flipkart. Key insights: top brands by revenue, price segments, customer preferences, and sales trends.  
+  Updated: Mar 2025  
+  [Repo → Flipkart-Mobile-Sales-Data](https://github.com/ravindrasudha/Flipkart-Mobile-Sales-Data)
 
-- **📊 Sales Ops Power BI Dashboard**  
-  Enterprise DAX mastery: forecasting, RLS, what-if params (production-used)  
-  [Repo](https://github.com/ravindrasudha/sales-dashboard) • [Report](https://app.powerbi.com/view?...)
+- **🛒 Ecommerce Sales Store Report**  
+  End-to-end e-commerce sales analysis with visualization, KPIs, and business recommendations. Focus on revenue breakdown, product performance, and customer behavior.  
+  Updated: Jun 2024  
+  [Repo → Ecommerce-Sales-Store-Report](https://github.com/ravindrasudha/Ecommerce-Sales-Store-Report)
 
-- **🤖 Production RAG Chatbot**  
-  LangChain + Llama3 + FAISS for retail Q&A (fine-tuned over 2+ yrs)  
-  [Repo](https://github.com/ravindrasudha/rag-chatbot) • [HF Demo](https://huggingface.co/spaces/ravindrasudha/rag-bot)
+- **📊 Netflix — Data Exploration and Visualisation**  
+  In-depth EDA on Netflix titles dataset: content trends, genre popularity, country distribution, rating analysis, and time-based insights using Python (Pandas, Matplotlib/Seaborn/Plotly).  
+  Updated: May 2025  
+  [Repo → Netflix---Data-Exploration-and-Visualisation](https://github.com/ravindrasudha/Netflix---Data-Exploration-and-Visualisation)
 
-*(Add more projects as you create repos — pin the best ones!)*
+- **🏃‍♂️ Aerofit Treadmill — Descriptive Statistics & Probability**  
+  Customer profiling for treadmill purchases: probability distributions, conditional probability, descriptive stats, and business recommendations for targeting segments.  
+  Updated: Jul 2025  
+  [Repo → Aerofit_treadmill-Descriptive-Statistics-Probability](https://github.com/ravindrasudha/Aerofit_treadmill-Descriptive-Statistics-Probability)
 
----
+- **🧪 Yulu — Hypothesis Testing**  
+  Statistical hypothesis testing on bike-sharing demand: t-tests, ANOVA, chi-square to understand factors affecting rentals (weather, season, working day, etc.).  
+  Updated: Jul 2025  
+  [Repo → Yulu-Hypothesis-Testing](https://github.com/ravindrasudha/Yulu-Hypothesis-Testing)
+
+- **🛍️ Walmart — Confidence Interval & Central Limit Theorem**  
+  Application of CLT and confidence intervals to analyze customer spending patterns (gender, age, etc.) during Black Friday — inferential statistics for business decisions.  
+  Updated: Jul 2025  
+  [Repo → Walmart-Confidence-Interval-and-CLT](https://github.com/ravindrasudha/Walmart-Confidence-Interval-and-CLT)
+
+→ **Pinned repositories** below show the latest & most representative work.  
+Most projects include Jupyter Notebooks with clean code, visualizations, statistical interpretations, and actionable insights. Feel free to explore, fork, or reach out for discussions/collaborations!
 
 ### 📊 GitHub Stats
 
