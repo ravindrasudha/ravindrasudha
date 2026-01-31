@@ -117,7 +117,7 @@ Here are standout projects blending data analysis, ML, GenAI, and BI:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sudha-ravindra" target="_blank">
+  <a href="https://www.linkedin.com/in/sudharavindra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
